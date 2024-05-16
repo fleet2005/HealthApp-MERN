@@ -71,17 +71,17 @@ function Fetching() {
                 <label> Calories Gained Through Eating</label> <br /><br />  
                 {inputFields.map((inputField, index) => (
                     <div key={index}>
-                        <input  style={{ padding: '0.5rem', marginBottom: '1rem', border: '1px solid #ced4da', borderRadius: '3px', marginRight: "35px", marginLeft:"40px"}}
+                        <input  style={{ textAlign:"center", padding: '0.5rem', marginBottom: '1rem', border: '1px solid #ced4da', borderRadius: '3px', marginRight: "35px", marginLeft:"40px"}}
                             type="text"
                             name="name"
                             placeholder= "Item-Name"
                             value={inputField.name}
                             onChange={event => handleInputChange(index, event)}
                         />
-                        <input  style={{ padding: '0.5rem', marginBottom: '1rem', border: '1px solid #ced4da', borderRadius: '3px', marginRight: "35px"}}
+                        <input  style={{ textAlign:"center", padding: '0.5rem', marginBottom: '1rem', border: '1px solid #ced4da', borderRadius: '3px', marginRight: "35px"}}
                             type="text"
                             name="weight"
-                            placeholder='Quantity (lbs)'
+                            placeholder='Quantity'
                             value={inputField.weight}
                             onChange={event => handleInputChange(index, event)}
                         />
