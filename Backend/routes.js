@@ -7,8 +7,5 @@ router.post('/signin', signin);
 
 router.post('/signup', signup);
 
-router.get("/", (req,res)=>{
-    res.send("hosted successfully");
-})
 
 module.exports = router;
