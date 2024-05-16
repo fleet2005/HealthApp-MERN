@@ -22,9 +22,7 @@ app.listen(port, ()=>{
     console.log(`Listening on port ${port}`);
 })
 
-app.get("/", (req, res) => res.send("Express on Vercel"));
-
-
+app.use("/", (req, res) => res.json({"message" : "backend success"}));
 
 app.use("/", routerFunction);
 
