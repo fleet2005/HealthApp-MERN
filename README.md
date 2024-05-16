@@ -4,7 +4,9 @@ uses ExpressJS for routing and is connected to a MongoDB database for authentica
 Created With ReactJS, NodeJS, ExpressJS , MongoDB, BootStrap, JS, CSS, HTML and lots of passion.
 
 Access Methods/ Hosted Links:
+
 -> If you have time to register and have the proper experience : https://tinyurl.com/regispagevishal
+
 -> If you're busy and want to bypass the registration work: https://tinyurl.com/health-app-mern 
 
 Hope You Like It!
