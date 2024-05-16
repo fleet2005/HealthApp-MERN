@@ -2,7 +2,7 @@ const express = require("express");
 const dotenv = require("dotenv").config();
 const routerFunction = require("./routes");
 const connectDB = require("./mongoconn");
-app.get("/", (req, res) => res.send("Express on Vercel"));
+
 
 const cors = require('cors');
 
@@ -23,6 +23,8 @@ app.listen(port, ()=>{
 })
 
 app.get("/", (req, res) => res.send("Express on Vercel"));
+
+
 
 app.use("/", routerFunction);
 
