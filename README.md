@@ -5,8 +5,9 @@ Created With ReactJS, NodeJS, ExpressJS , MongoDB, BootStrap, JS, CSS, HTML and 
 
 Access Methods/ Hosted Links:
 
--> If you have time to register and want to have a proper experience : https://tinyurl.com/regispagevishal
+-> Preferred : https://tinyurl.com/regispagevishal
 
--> If you're busy and want to bypass the registration work: https://tinyurl.com/health-app-mern 
+-> If it doesn't work: https://sign-in-sign-up-liard.vercel.app/
+
 
 Hope You Like It!
