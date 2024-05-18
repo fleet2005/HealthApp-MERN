@@ -5,7 +5,7 @@ Created With ReactJS, NodeJS, ExpressJS , MongoDB, BootStrap, JS, CSS, HTML and 
 
 Access Methods/ Hosted Links:
 
--> If you have time to register and have the proper experience : https://tinyurl.com/regispagevishal
+-> If you have time to register and want to have a proper experience : https://tinyurl.com/regispagevishal
 
 -> If you're busy and want to bypass the registration work: https://tinyurl.com/health-app-mern 
 
