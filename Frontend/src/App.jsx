@@ -8,9 +8,10 @@ function App()
 {
   return(
     <>
-    <Fetching/> <br/><br/>
     <Exercise/> <br/><br/>
-    <Bmi/> <br/><br/>  
+    <Bmi/> <br/><br/> 
+    <Fetching/> <br/><br/>
+    
     </>
   );
 }
